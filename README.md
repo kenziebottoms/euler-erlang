@@ -1,5 +1,7 @@
 ### Project Euler: Erlang
 
+**Note**: This code is from 2012 - 2013.
+
 <!-- TOC -->
 
 - [Project Euler: Erlang](#project-euler-erlang)
